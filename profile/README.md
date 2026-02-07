@@ -9,18 +9,25 @@
 
 [![Made with Rust](https://img.shields.io/badge/Made%20with-Rust-orange?style=flat-square&logo=rust)](https://www.rust-lang.org)
 [![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)](https://tauri.app)
-[![Release](https://img.shields.io/github/v/release/laxenta/WallpaperEngine?style=flat-square&color=blue)](https://github.com/laxenta/WallpaperEngine/releases)
-[![License](https://img.shields.io/github/license/laxenta/WallpaperEngine?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/colorwall/colorwall?style=flat-square&color=blue)](https://github.com/colorwall/colorwall/releases)
+[![License](https://img.shields.io/github/license/colorwall/colorwall?style=flat-square)](LICENSE)
 
 > **~0.5% CPU / 3–8% GPU • 4K Video Wallpapers • 6+ Auto-Scraped Sources**  
 >
 > *No infrastructure required — the application runs locally and works fully offline.*
 
-[Open](https://github.com/colorwall/colorwall) 
+<p align="center">
+  <a href="https://github.com/colorwall/colorwall">
+    <img src="https://img.shields.io/badge/Open-ColorWall-7F00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=3556CA" alt="Open ColorWall"/>
+  </a>
+</p>
+
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Colorwall/.github/main/thecolorwall.png" width="500">
+  <img src="https://raw.githubusercontent.com/Colorwall/.github/main/profile/thecolorwall.png" width="1000">
 </p>
+
 
 
 </div>
