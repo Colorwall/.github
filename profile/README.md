@@ -18,7 +18,10 @@
 
 [Open](https://github.com/colorwall/colorwall) 
 
-![Preview]([colorwallbanner.PNG](https://github.com/Colorwall/.github/blob/main/colorwallbanner.png?raw=true))
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Colorwall/.github/main/thecolorwall.png" width="500">
+</p>
+
 
 </div>
 
