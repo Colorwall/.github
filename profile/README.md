@@ -36,13 +36,9 @@
 
 ## 📂 Source Code Status
 
-ColorWall is currently closed-source as in today's world of A.I, anyone can copy a working logic and change the front-end. 
+ColorWall will be open source as soon as we get certificates for it
 
 Publishing to the Microsoft Store requires a developer license and related costs, which we are currently self-funding. To ensure sustainability and proper release management, we plan to open-source the project once distribution infrastructure is secured.
-
-If you would like to support the project and help accelerate open-sourcing efforts, you can contribute here:
-
-👉 https://your-donation-link-here.com
 
 Community support directly helps with licensing, signing certificates, and long-term development.
 
