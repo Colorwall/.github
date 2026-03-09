@@ -34,9 +34,10 @@
 
 ---
 
-## 📂 Source Code Status
-
-ColorWall will be open source as soon as we get certificates for it
+## Source Code Status
+Well we apologize if it seems misleading but, one has to understand that
+ColorWall will be open source as soon as we get certificates for it, most likely in a month
+The developer of colorwall, as in me, plans to release Android and Linux versions too soon and other services alongside this source code.
 
 Publishing to the Microsoft Store requires a developer license and related costs, which we are currently self-funding. To ensure sustainability and proper release management, we plan to open-source the project once distribution infrastructure is secured.
 
