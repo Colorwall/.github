@@ -22,10 +22,10 @@
   </a>
 </p>
 
+<img width="1536" height="1024" alt="LxColorWall" src="https://github.com/user-attachments/assets/2909a227-44be-433d-876c-8a28c473f5a7" />
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Colorwall/.github/main/profile/thecolorwall.png" width="1000">
 </p>
 
 
