@@ -17,7 +17,7 @@
 > *No infrastructure required — the application runs locally and works fully offline.*
 
 <p align="center">
-  <a href="https://github.com/colorwall/colorwall">
+  <a href="https:laxenta.xyz">
     <img src="https://img.shields.io/badge/Open-ColorWall-7F00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=3556CA" alt="Open ColorWall"/>
   </a>
 </p>
