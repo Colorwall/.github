@@ -15,7 +15,7 @@
 > **3–8% GPU • 4K Video Wallpapers • 10+ Wallpaper Sources**  
 >
 > *Read Full features and see previews on the website, or download blindly, because it JUST WORKS!*
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cdcf52a4-70ca-45ff-81ef-be319b174abe" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e70249c0-a289-4f09-8410-e47fde30f13b" />
 
 
 <p align="center">
