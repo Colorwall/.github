@@ -2,7 +2,7 @@
 
 # ColorWall
 
-### A Free Wallpaper Engine Alternative Built in Rust  
+### A Desktop Costumization Engine Built in Rust  
 **Designed for Performance • Optimization Enthusiasts • Everyday Users • Low-Spec PCs**
 
 
@@ -31,19 +31,3 @@
 
 
 </div>
-
----
-
-## Source Code Status
-Well we apologize if it seems misleading but, one has to understand that
-ColorWall will be open source as soon as we get certificates for it, most likely in a month.
-The developer of colorwall, as in me ( @laxenta.me on discord or instagram, you can ask anything, i am alright with it ), i plan to release Android and Linux versions too soon and other services alongside this source code.
-
-Publishing to the Microsoft Store requires a developer license and related costs, which we are currently self-funding. To ensure sustainability and proper release management, we plan to open-source the project once distribution infrastructure is secured.
-
-Community support directly helps with licensing, signing certificates, and long-term development.
-
-Transparency and community collaboration remain long-term goals of this project.
-
-
----
