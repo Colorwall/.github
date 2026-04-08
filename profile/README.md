@@ -14,7 +14,7 @@
 
 > **~0.5% CPU / 3–8% GPU • 4K Video Wallpapers • 6+ Auto-Scraped Sources**  
 >
-> *No infrastructure required — the application runs locally and works fully offline.*
+> *Read Full features and see previews on the website, or download blindly, because it JUST WORKS!*
 
 <p align="center">
   <a href="https://colorwall.xyz">
