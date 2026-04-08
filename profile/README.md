@@ -3,7 +3,7 @@
 # ColorWall
 
 ### A Desktop Costumization Engine Built in Rust  
-**Designed for Performance • Optimization Enthusiasts • Everyday Users • Low-Spec PCs**
+**Designed for Performance • Optimization Enthusiasts • Advanced user's (Inbuild Workshop/Studio for shaders) • Low-Spec PCs**
 
 
 
@@ -12,7 +12,7 @@
 [![Release](https://img.shields.io/github/v/release/colorwall/colorwall?style=flat-square&color=blue)](https://github.com/colorwall/colorwall/releases)
 [![License](https://img.shields.io/github/license/colorwall/colorwall?style=flat-square)](LICENSE)
 
-> **~0.5% CPU / 3–8% GPU • 4K Video Wallpapers • 6+ Auto-Scraped Sources**  
+> **BLAZING FAST, FREE AND 3–8% GPU • 4K Video Wallpapers • 10+ Wallpaper Sources**  
 >
 > *Read Full features and see previews on the website, or download blindly, because it JUST WORKS!*
 
